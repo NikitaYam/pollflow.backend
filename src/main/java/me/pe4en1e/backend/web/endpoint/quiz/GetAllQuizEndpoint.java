@@ -1,4 +1,4 @@
-package me.pe4en1e.backend.web.endpoint;
+package me.pe4en1e.backend.web.endpoint.quiz;
 
 import me.pe4en1e.backend.data.entity.Quiz;
 import me.pe4en1e.backend.data.repository.QuizRepository;

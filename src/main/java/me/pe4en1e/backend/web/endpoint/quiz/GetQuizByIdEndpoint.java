@@ -1,4 +1,4 @@
-package me.pe4en1e.backend.web.endpoint;
+package me.pe4en1e.backend.web.endpoint.quiz;
 
 import lombok.Data;
 import me.pe4en1e.backend.data.entity.Quiz;
